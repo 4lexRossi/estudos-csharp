@@ -1,0 +1,13 @@
+/home/alex/meus-projetos/console-dotnet/bin/Debug/netcoreapp3.1/console-dotnet
+/home/alex/meus-projetos/console-dotnet/bin/Debug/netcoreapp3.1/console-dotnet.deps.json
+/home/alex/meus-projetos/console-dotnet/bin/Debug/netcoreapp3.1/console-dotnet.runtimeconfig.json
+/home/alex/meus-projetos/console-dotnet/bin/Debug/netcoreapp3.1/console-dotnet.runtimeconfig.dev.json
+/home/alex/meus-projetos/console-dotnet/bin/Debug/netcoreapp3.1/console-dotnet.dll
+/home/alex/meus-projetos/console-dotnet/bin/Debug/netcoreapp3.1/console-dotnet.pdb
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.csprojAssemblyReference.cache
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.AssemblyInfoInputs.cache
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.AssemblyInfo.cs
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.csproj.CoreCompileInputs.cache
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.dll
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.pdb
+/home/alex/meus-projetos/console-dotnet/obj/Debug/netcoreapp3.1/console-dotnet.genruntimeconfig.cache
