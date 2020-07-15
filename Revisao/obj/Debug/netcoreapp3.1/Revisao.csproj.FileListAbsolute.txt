@@ -1,0 +1,13 @@
+/home/alex/meus-projetos/estudo_csharp/Revisao/bin/Debug/netcoreapp3.1/Revisao
+/home/alex/meus-projetos/estudo_csharp/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/home/alex/meus-projetos/estudo_csharp/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/home/alex/meus-projetos/estudo_csharp/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/home/alex/meus-projetos/estudo_csharp/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/home/alex/meus-projetos/estudo_csharp/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.csproj.CoreCompileInputs.cache
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
+/home/alex/meus-projetos/estudo_csharp/Revisao/obj/Debug/netcoreapp3.1/Revisao.genruntimeconfig.cache
